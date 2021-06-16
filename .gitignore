@@ -12,6 +12,7 @@
 *.net
 *.plt
 *.fft
+*cache
 logs/*.log*
 old
 docs/htmlcov
