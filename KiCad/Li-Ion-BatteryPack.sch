@@ -75,10 +75,10 @@ Wire Wire Line
 	6300 4950 4200 4950
 Text Notes 3950 5100 0    50   ~ 0
 CL+
-Text Notes 5700 4500 0    50   ~ 0
-Concentric
-Text Notes 5800 4600 0    50   ~ 0
-Splitter
+Text Notes 6050 4500 0    50   ~ 0
+Charge
+Text Notes 6050 4600 0    50   ~ 0
+Power
 Wire Wire Line
 	5550 4600 6300 4600
 Wire Wire Line
