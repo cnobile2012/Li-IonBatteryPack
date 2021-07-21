@@ -10,11 +10,11 @@ These are the BMS boards used:
 
 .. image:: images/5S-BMS-Frontside.jpg
   :width: 400
-  :alt: BNS Frontside image
+  :alt: BMS Frontside image
 
 .. image:: images/5S-BMS-Backside.jpg
   :width: 400
-  :alt: BNS Backside image
+  :alt: BMS Backside image
 
 Version 1.0 of the circuit board:
 
